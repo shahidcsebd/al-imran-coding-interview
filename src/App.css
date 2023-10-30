@@ -64,3 +64,12 @@ li {
   @apply: bg-green-400;
   background-color: #3189fc;
 }
+
+.hovered-list {
+  border: 2px dotted blue;
+  padding: 10px;
+}
+
+.button-hovered {
+  border: #3189fc 2px dotted;
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "text": "Item 1",
+    "fields": [
+      "How to become a good Javascript Developer",
+      "All About Javascript Closures",
+      "Master Asyncronous Javascript Behaviour"
+    ],
+    "showMultiSelect": false
+  },
+  {
+    "id": 2,
+    "text": "Item 2",
+    "fields": ["Learn More About Promises", "Javascript Async/Await"],
+    "showMultiSelect": false
+  },
+  {
+    "id": 3,
+    "text": "Item 3",
+    "fields": ["Learn CSS from today", "Become a Master of CSS"],
+    "showMultiSelect": false
+  }
+]
